@@ -1,0 +1,28 @@
+{
+  "name": "zheminivan",
+  "version": "1.0.0",
+  "description": "zheminivan is a Node.js module that provides helpful functions for working with musical harmony, such as retrieving chord notes, scale notes, and chord progressions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zheminivan/zheminivan"
+  },
+  "dependencies": {
+	  "farmaniyah": "1.0.0",
+"donaldrodriguez-os": "1.0.0",
+"squarunblownett": "1.0.0",
+"carolscott": "1.0.0",
+"krotovsemen": "1.0.0",
+"sdk-krotovsemen": "1.0.0",
+    "tonal": "^2.8.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zheminivan/zheminivan/issues"
+  },
+  "homepage": "https://github.com/zheminivan/zheminivan#readme"
+}
